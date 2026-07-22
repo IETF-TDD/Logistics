@@ -9,5 +9,5 @@
 | YANG                                                     | Chair#1/Chair#2       | IETF#xyz  | ....     |
 | OAuth                                                     | Chair#1/Chair#2       |IETF#xyz    | ....     |
 | Email Security including transport security, message security, and sender authorization  | Chair#1/Chair#2       | IETF#xyz    | ....     |
-|topic                                                      | Chair#1/Chair#2       | IETF#xyz    | ....     |
+| PQC                                                      | Chair#1/Chair#2       | IETF#xyz    | ....     |
 |topic                                                      | Chair#1/Chair#2       | IETF#xyz    | ....     |
