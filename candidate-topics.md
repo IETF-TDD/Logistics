@@ -1,8 +1,8 @@
 # Tentative
 
 
-| Topic                                                     | TDD Chair Shepherds   | Target IETF Meeting   |
-|----------------------------------------------------------:|:---------------------:|:--------:|
+| Topic                                                     | TDD Chair Shepherds   | Target IETF Meeting   | Leading Speakers|
+|----------------------------------------------------------:|:---------------------:|:--------:|:--------:|
 | EVPN: Theory and real deployment samples                  | Chair#1/Chair#2       |IETF#xyz  | ....     |
 | AIDC: use of IETF technologies in building new DCs (MSDCs, Traffic matrix, extensions, routing, addressing, etc.)| Chair#1/Chair#2       | IETF#xyz    | ....     |
 | Network Telemetry: dive into technical toolkit (BMP, IPFIX, gNMI, YP, etc.) | Chair#1/Chair#2       | IETF#xyz  | ....     |
