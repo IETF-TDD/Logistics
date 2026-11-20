@@ -4,7 +4,7 @@
 | Topic                                                     | TDD Chair Shepherds   | Target IETF Meeting   | Leading Speakers|
 |:----------------------------------------------------------|:----------------------|:---------|:---------|
 | Network Telemetry: dive into technical toolkit (BMP, IPFIX, gNMI, YP, etc.) | Dan Voyer/Ron Bonica    |IETF127  | Thomas Graf     |
-| AIDC: use of IETF technologies in building new DCs (MSDCs, Traffic matrix, extensions, routing, addressing, etc.)| Cheongfeng Xie/Paolo Volpato       | IETF128    | Xiaolong Zheng / Tao Lin |
+| AIDC: use of IETF technologies in building new DCs (MSDCs, Traffic matrix, extensions, routing, addressing, etc.)| Cheongfeng Xie/Paolo Volpato       | IETF128    | Xiaolong Zheng (Huawei) / Tao Lin (Alibaba) / Brian Trammell (Google)|
 | EVPN: Theory and real deployment samples | Chair#1/Chair#2       | IETF#xyz  | ....     |
 | YANG                                                     | Chair#1/Chair#2       | IETF#xyz  | ....     |
 | OAuth                                                     | Chair#1/Chair#2       |IETF#xyz    | ....     |
